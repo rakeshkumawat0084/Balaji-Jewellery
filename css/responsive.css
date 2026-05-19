@@ -296,43 +296,7 @@ textarea.form-control {
     color: goldenrod;
 }
 
-/* .footer-social {
-    display: flex;
-    gap: 8px;
-}
-
-.social-link {
-    width: 40px;
-    height: 40px;
-    color: white;
-    transition: 0.3s;
-}
-
-.social-link svg {
-    width: 22px;
-    height: 22px;
-}
-
-/* Individual colors */
-.social-link.facebook {
-    color: #1877f2;
-}
-
-.social-link.instagram {
-    color: #e1306c;
-}
-
-.social-link.twitter {
-    color: #1da1f2;
-}
-
-/* Hover effect */
-.social-link:hover {
-    transform: scale(1.2);
-    color: gold;
-}
-
-*/ .footer-heading {
+.footer-heading {
     font-size: 1.1rem;
     color: var(--color-white);
     margin-bottom: var(--spacing-md);
